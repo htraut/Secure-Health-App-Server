@@ -1,0 +1,19 @@
+{
+  "name": "node-simple-http-daemon",
+  "version": "0.0.0",
+  "description": "simple http daemon written in node.js",
+  "main": "lib/app.js",
+  "dependencies": {
+    "daemon": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/secure-health-app-server.js"
+  },
+  "keywords": [
+    "simplehttpdaemon" 
+  ],
+  "author": "herb traut",
+  "license": "ISC"
+}
