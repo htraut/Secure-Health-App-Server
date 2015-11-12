@@ -1,2 +1,4 @@
 #exclude /lib/certs
 /lib/certs
+/lib/nbproject/private/
+/bin/nbproject/private/
